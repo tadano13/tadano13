@@ -44,7 +44,7 @@ I'm a 3rd Year student at Daman Engineering College . My journey in tech started
 
 <p align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tadano13&show_icons=true&theme=default&hide_border=true"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadano13&layout=compact&theme=default&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadano13&layout=compact&theme=radacial&hide_border=true"/>
 </p>
 
 ---
