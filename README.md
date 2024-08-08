@@ -43,8 +43,8 @@ I'm a 3rd Year student at Daman Engineering College . My journey in tech started
 ### 📈 **GitHub Highlights**
 
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true"/>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tadano13&show_icons=true&theme=default&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadano13&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
@@ -53,8 +53,8 @@ I'm a 3rd Year student at Daman Engineering College . My journey in tech started
 
 Feel free to reach out if you want to collaborate on a project, or just chat about tech and games.
 
-- **Discord:** [yourdiscordID](https://discord.com/users/1003993935800189008)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+- **Discord:** [.nishhhh13](https://discord.com/users/1003993935800189008)
+- **Email:** [nishantsawaimoon282@gmail.com](mailto:nishantsawaimoon282@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/tadano13?style=social)](https://github.com/tadano13)
 
