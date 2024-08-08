@@ -5,8 +5,6 @@
 
 ![Preview](./images/download.jpg)
 
-<img src="./images/profile.png" alt="Profile Image" align="right" height="200" width="200"/>
-
 # Hey there! 👋 I'm Nishant Doma Sawaimoon
 
 **Tech Enthusiast | Full Of Curosity | Avid Learner**
