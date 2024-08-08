@@ -3,7 +3,7 @@
     <!-- ![](https://example.com/your-banner.png) -->
 </div>
 
-![Preview](./images/download.jpg)
+![Preview](./images/banner.png)
 
 # Hey there! 👋 I'm Nishant Doma Sawaimoon
 
