@@ -3,7 +3,7 @@
     <!-- ![](https://example.com/your-banner.png) -->
 </div>
 
-![Preview](./images/banner.jpg)
+![Preview](./images/download.jpg)
 
 <img src="./images/profile_picture.jpg" alt="Profile Image" align="right" width="200"/>
 
