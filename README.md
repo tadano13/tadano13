@@ -53,11 +53,10 @@ I'm a 3rd Year student at Daman Engineering College . My journey in tech started
 
 Feel free to reach out if you want to collaborate on a project, or just chat about tech and games.
 
-- **Discord:** [yourdiscordID](https://discord.com/users/yourdiscordID)
+- **Discord:** [yourdiscordID](https://discord.com/users/1003993935800189008)
 - **Email:** [youremail@example.com](mailto:youremail@example.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
+[![GitHub followers](https://img.shields.io/github/followers/tadano13?style=social)](https://github.com/tadano13)
 
 ---
 
