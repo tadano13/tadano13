@@ -65,5 +65,5 @@ Feel free to reach out if you want to collaborate on a project, or just chat abo
 Here’s a little counter to see how many cool folks have visited my profile:
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.visitor-badge" alt="visitor badge"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=tadano13.visitor-badge" alt="visitor badge"/>
 </p>
