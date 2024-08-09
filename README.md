@@ -5,11 +5,11 @@
 
 ![Preview](./images/picture2.jpg)
 
-### Hey there! 👋 I'm Nishant 
+### Hey there! 👋 I'm Nishant🍊 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1003993935800189008)](https://discord.com/users/1003993935800189008)
 
-**Tech Enthusiast | Full Of Curosity | Avid Learner**
+### **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
 ---
 
