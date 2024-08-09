@@ -5,7 +5,7 @@
 
 ![Preview](./images/banner.png)
 
-# Hey there! 👋 I'm Nishant Doma Sawaimoon
+### Hey there! 👋 I'm Nishant 
 
 **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
