@@ -3,7 +3,7 @@
     <!-- ![](https://example.com/your-banner.png) -->
 </div>
 
-![Preview](./images/banner.png)
+![Preview](./images/anime.mp4)
 
 ### Hey there! 👋 I'm Nishant 
 
