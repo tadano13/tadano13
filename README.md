@@ -6,7 +6,6 @@
 ![Preview](./images/picture2.jpg)
 
 ### Hey there! 👋 I'm Nishant 
-
 **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
 ---
