@@ -6,10 +6,13 @@
 ![Preview](./images/picture2.jpg)
 
 ### Hey there! 👋 I'm Nishant🍊 
+<a align = "left">  
+    <img src=""
+</a>
+
 <div align="right">
   <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence">
 </div>
-
 
 ### **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
