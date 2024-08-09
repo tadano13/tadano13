@@ -7,7 +7,7 @@
 
 ### Hey there! 👋 I'm Nishant 
 
-<a><img align="right" width="425" src=" https://api.lanyard.rest/v1/users/1003993935800189008?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a><img align="right" width="425" src="https://api.lanyard.rest/v1/users/1003993935800189008?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
