@@ -17,7 +17,7 @@
 
 I'm someone who's always been fascinated by the world of technology. Whether it's diving into the latest programming languages, experimenting with new frameworks, or simply tinkering with hardware, I'm always up for a challenge. Outside the tech realm, you can often find me indulging in games, or losing myself in a good book.
 
-- 💻 Currently honing my skills in Application Building
+- 💻 Currently honing my skills in Application Building.
 - 🎮 Big fan of Anime.
 - 📚 Always on the lookout for new learning opportunities
 
@@ -38,7 +38,7 @@ Here's a quick rundown of the technologies and tools I frequently use:
 
 I'm a 3rd Year student at Daman Engineering College . My journey in tech started with C, and since then, I've been passionately exploring the vast landscape of application development and Web devlopment. 
 
-- 🌱 **Current Focus:** Machine Learning, Data Science
+- 🌱 **Current Focus:** Machine Learning
   
 ---
 
@@ -46,7 +46,7 @@ I'm a 3rd Year student at Daman Engineering College . My journey in tech started
 
 <p align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tadano13&show_icons=true&theme=radical"/> <br>
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadano13&layout=compact&theme=radical&hide_border=true"/>
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadano13&layout=donut-vertical"/>
 </p>
 
 ---
