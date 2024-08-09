@@ -6,6 +6,9 @@
 ![Preview](./images/picture2.jpg)
 
 ### Hey there! 👋 I'm Nishant 
+
+<a href="https://discord.gg/XCgDcusrNj"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1003993935800189008?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+
 **Tech Enthusiast | Full Of Curosity | Avid Learner**
 
 ---
