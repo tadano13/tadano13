@@ -6,12 +6,9 @@
 ![Preview](./images/picture2.jpg)
 
 ### Hey there! 👋 I'm Nishant🍊 
-<a align = "left">  
-    <img src="https://media1.tenor.com/m/mG4E8oJCI2gAAAAC/loading-thinking.gif">
-</a>
-
-<div align="right">
-  <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <img src="https://media1.tenor.com/m/mG4E8oJCI2gAAAAC/loading-thinking.gif" alt="Loading Thinking GIF" style="max-width: 45%;">
+    <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence" style="max-width: 45%;">
 </div>
 
 ### **Tech Enthusiast | Full Of Curosity | Avid Learner**
