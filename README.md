@@ -7,7 +7,7 @@
 
 ### Hey there! 👋 I'm Nishant🍊 
 <a align = "left">  
-    <img src=""
+    <img src="https://media1.tenor.com/m/mG4E8oJCI2gAAAAC/loading-thinking.gif">
 </a>
 
 <div align="right">
