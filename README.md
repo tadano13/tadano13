@@ -1,8 +1,3 @@
-<div align="center">
-    <!-- Add a unique banner or an introductory phrase here -->
-    <!-- ![](https://example.com/your-banner.png) -->
-</div>
-
 ![Preview](./images/picture2.jpg)
 
 ### Hey there! 👋 I'm Nishant🍊 
