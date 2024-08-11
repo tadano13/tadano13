@@ -1,9 +1,8 @@
 ![Preview](./images/picture2.jpg)
 
-### Hey there! 👋 I'm Nishant🍊 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence" style="max-width: 45%;">
-    <img src="https://github.com/tadano13/tadano13/blob/1b897c6668c943ec3ab22338ac6d276cb21487e4/images/picture3.jpg" style="max-height: 206px; max-width: 411px">
+    <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence" style="max-width: 50%; height: auto;">
+    <img src="https://github.com/tadano13/tadano13/blob/1b897c6668c943ec3ab22338ac6d276cb21487e4/images/picture3.jpg" style="max-width: 30%; max-height: 150px; height: auto;">
 </div>
 
 
