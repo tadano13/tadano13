@@ -11,7 +11,7 @@
 
 ### 🌟 **About Me**
 
-I'm someone who's always been fascinated by the world of technology. Whether it's diving into the latest programming languages, experimenting with new frameworks, or simply tinkering with hardware, I'm always up for a challenge. Outside the tech realm, you can often find me indulging in games, or losing myself in a good book.
+I'm someone who's always been fascinated by the world of technology. Whether it's diving into the latest programming languages, experimenting with new frameworks, or simply tinkering with hardware, I'm always up for a challenge. Outside the tech realm, you can often find me indulging in games, or losing myself in a good anime.
 
 - 💻 Currently honing my skills in Application Building.
 - 🎮 Big fan of Anime.
