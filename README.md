@@ -3,6 +3,7 @@
 ### Hey there! 👋 I'm Nishant🍊 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://lanyard.cnrad.dev/api/1003993935800189008" alt="Discord Presence" style="max-width: 45%;">
+    <img src=>
 </div>
 
 
