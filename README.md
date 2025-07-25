@@ -26,13 +26,13 @@ Here's a quick rundown of the technologies and tools I frequently use:
 - **Languages:** Java, Python, PHP.
 - **Frameworks:** Spring Boot, Node.js
 - **Tools:** VScode
-- **Interests:** Machine Learning, Web Development, Android Development.
+- **Interests:** Machine Learning, Web Devlopment, Android Devlopment.
 
 ---
 
 ### 🚀 **My Journey**
 
-I'm a 3rd Year student at Daman Engineering College . My journey in tech started with C, and since then, I've been passionately exploring the vast landscape of application development and Web devlopment. 
+I'm a 3rd Year student at Daman Engineering College . My journey in tech started with C, and since then, I've been passionately exploring the vast landscape of application devlopment and Web devlopment. 
 
 - 🌱 **Current Focus:** Machine Learning
   
