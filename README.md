@@ -26,7 +26,7 @@ Here's a quick rundown of the technologies and tools I frequently use:
 - **Languages:** Java, Python, PHP.
 - **Frameworks:** Spring Boot, Node.js
 - **Tools:** VScode
-- **Interests:** Machine Learning, Web Development, Application Building.
+- **Interests:** Machine Learning, Web Development, Android Development.
 
 ---
 
