@@ -32,7 +32,7 @@ Here's a quick rundown of the technologies and tools I frequently use:
 
 ### 🚀 **My Journey**
 
-I'm a 3rd Year student at Daman Engineering College .I have diploma in Computer Science and Engineering. My journey in tech started with C, and since then, I've been passionately exploring the vast landscape of application devlopment and Web devlopment. 
+I'm a 2nd Year student at Daman Engineering College .I have diploma in Computer Science and Engineering. My journey in tech started with C, and since then, I've been passionately exploring the vast landscape of application devlopment and Web devlopment. 
 
 - 🌱 **Current Focus:** Machine Learning
   
